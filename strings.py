@@ -16,7 +16,7 @@ print('{1}, {2}, {0}'.format('a', 'b', 'c'))
 # Arguments by nnam
 print('My name is {name} and I am {age}'. format(name=name, age=age))
 
-# F-Strings (only in 3.6+)
+# F-Strings (only in python 3.6+)
 print(f'My name is {name} and I am {age}')
 
 # String Methods
